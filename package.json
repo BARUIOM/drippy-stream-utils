@@ -1,0 +1,22 @@
+{
+    "name": "@drippy-music/stream-utils",
+    "version": "1.0.0",
+    "description": "Streaming utilities for Node.JS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Drippy-Music/drippy-stream-utils.git"
+    },
+    "author": "Vitor Mac",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Drippy-Music/drippy-stream-utils/issues"
+    },
+    "homepage": "https://github.com/Drippy-Music/drippy-stream-utils#readme",
+    "dependencies": {
+        "ffmpeg-static": "^4.1.0"
+    }
+}
