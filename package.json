@@ -1,6 +1,6 @@
 {
     "name": "@drippy-music/stream-utils",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Streaming utilities for Node.JS",
     "main": "index.js",
     "scripts": {
