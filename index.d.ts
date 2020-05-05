@@ -7,7 +7,7 @@ declare namespace StreamUtils {
         /**
          * Creates a new instance of ffmpeg with default [audio/webm - codec opus] output
          */
-        static create(): ChildProcess;
+        static create(force?: Boolean = true): ChildProcess;
 
     }
 
